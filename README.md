@@ -15,13 +15,15 @@
     <img align="center" height="50" width="30" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="50" width="30" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="50" width="30" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img aling="center" height="50" width="30" alt="python-icon" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">     
+    <img aling="center" height="50" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">     
    </div>
     
   
   <h1 align="center">Redes Sociais</h1>
-       <a href = "mailto: work.luigi.fonseca@gmail.com">
+  
+   <a href = "mailto: work.luigi.fonseca@gmail.com">
       <img width="30" src="gmail.svg">
+        
    <a href = "https://www.linkedin.com/in/patrick-moreira-da-silva-323314a4/">
       <img width="25" src="linkedin.svg">
     
