@@ -20,10 +20,9 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-  
-    <a href = "https://www.linkedin.com/in/patrick-moreira-da-silva-323314a4/">
+   <a href = "https://www.linkedin.com/in/patrick-moreira-da-silva-323314a4/">
       <img width="25" src="linkedin.svg">
-    </a>
+    
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
