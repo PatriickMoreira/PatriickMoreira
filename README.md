@@ -1,8 +1,10 @@
 ## Hey !! I'm Patrick 👋 Wellcome to my page 🎉
 
 <div>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=PatriickMoreira&show_icons=true&theme=-gatsby&include_all_commits=true&count_private=true"/>
   </div>
 
 <br>
@@ -15,17 +17,16 @@
     <img align="center" height="50" width="30" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="50" width="30" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="50" width="30" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img aling="center" height="50" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">     
+    <img align="center" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Contatos</h1>
   
-   <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
         
-   <a href = "https://www.linkedin.com/in/patrick-moreira-da-silva-323314a4/">
-      <img width="25" src="linkedin.svg">
+   <a href="https://www.linkedin.com/in/patrick-moreira-da-silva-323314a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
 </div>
   
